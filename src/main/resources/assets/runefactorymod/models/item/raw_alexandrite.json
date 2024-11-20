@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "runefactorymod:item/raw_alexandrite"
+  }
+}
